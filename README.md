@@ -1,5 +1,7 @@
 # AWS_Terraform_Infra
 I created an AWS VPC, with public and private subnets in a single  availability zones. We are also going to create an internet gateway for the public subnets, a nat gateway for the private subnets and a default vpc security group. We will also create Custom Route Tables and associate them with subnets
+![image](https://user-images.githubusercontent.com/65775241/179656366-7fc602bf-4577-4a5d-acd0-55102b2a2ba5.png)
+
 
 
 
