@@ -2,6 +2,7 @@
 I created an AWS VPC, with public and private subnets in a single  availability zones. We are also going to create an internet gateway for the public subnets, a nat gateway for the private subnets and a default vpc security group. We will also create Custom Route Tables and associate them with subnets
 
 
+
 Pre-Requisites To Creating Infrastructure on AWS Using Terraform
 We require AWS IAM API keys (access key and secret key) for creating and deleting permissions for all AWS resources.
 Terraform should be installed on the machine. If Terraform does not exist you can download and install it from here.
